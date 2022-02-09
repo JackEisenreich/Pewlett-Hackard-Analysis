@@ -3,9 +3,13 @@
 
 **Overview of Analysis**
 
+_Purpose of Analysis:_
+
 The purpose of part 1 was to create a table of retirement titles that held all the employees born between January 1, 1952, and December 31, 1955 (with their titles), who are thought to be retiring soon. The purpose of part 2 was to create a table of current employees who were born between January 1, 1965, and December 31, 1965, who could potentially be available for mentorship.  If we can pair employees from the younger generation with employees from elder generation then the company can avoid losing all the knowledge held by the elder employee when he retires.
 
 **Results**
+
+_Major Points_:
 
 * 25915 Senior Engineers are in the retiring threshold, so we desperately need to pair these people up with younger employees to mentor
 
@@ -20,5 +24,11 @@ The purpose of part 1 was to create a table of retirement titles that held all t
 
 **Summary**
 
-In total, 72,458 total jobs will need to be filled with that generation exiting the workforce. However, this also means that there are plenty of retirement ready employees who can mentor the next generation. I might be worried about managers because there are only 2 of them, but all the other departments have over 1000 employees who can help mentor. Another query that might provide some insight would be a query that returns all the employees born after 1980. That count could be crucial to the future of the company as they should continue to work at the company for some time.  Also a table with the count by title for that generation would be helpful in showing where Pewlett Hackard can allocate more or less human resources. 
+_Answer to Questions:_
+
+In total, 72,458 total jobs will need to be filled with that generation exiting the workforce. However, this also means that there are plenty of retirement ready employees who can mentor the next generation. I might be worried about managers because there are only 2 of them, but all the other departments have over 1000 employees who can help mentor. 
+
+_Additional Queries and Tables:_
+
+Another query that might provide some insight would be a query that returns all the employees born after 1980. That count could be crucial to the future of the company as they should continue to work at the company for some time.  Also a table with the count by title for that generation would be helpful in showing where Pewlett Hackard can allocate more or less human resources. 
 
