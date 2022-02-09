@@ -7,12 +7,12 @@ The purpose of part 1 was to create a table of retirement titles that held all t
 
 **Results**
 
-*25915 Senior Engineers are in the retiring threshold, so we desperately need to pair these people up with younger employees to mentor
+* 25915 Senior Engineers are in the retiring threshold, so we desperately need to pair these people up with younger employees to mentor
 ![Retiring_Job_Counts](https://user-images.githubusercontent.com/95661553/153100272-e006ad3a-8727-4aa5-840e-cb3b7e114f4c.png)
 
-*In the mentorship eligible list there are no managers and in the retiring list there are only 2. The managers should convert employees or hire new employees to mentor so that skill is not completely lost
-*There are 72,458 potentially retiring employees. We will need to check on younger generations to make sure we still have a steady flow of new employees to replace this potential outflow of talent
-*The job where we have the highest ratio of mentorship eligible employees to potentially retiring employees is Assistant Engineer
+* In the mentorship eligible list there are no managers and in the retiring list there are only 2. The managers should convert employees or hire new employees to mentor so that skill is not completely lost
+* There are 72,458 potentially retiring employees. We will need to check on younger generations to make sure we still have a steady flow of new employees to replace this potential outflow of talent
+* The job where we have the highest ratio of mentorship eligible employees to potentially retiring employees is Assistant Engineer
 ![Assistant_Engineer](https://user-images.githubusercontent.com/95661553/153100288-5095a4f9-d0f4-4ada-95b7-e831feb67fca.png)
 
 
