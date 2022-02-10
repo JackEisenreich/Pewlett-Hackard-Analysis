@@ -27,7 +27,7 @@ r.title
 INTO unique_titles
 FROM retirement_titles as r
 WHERE r.to_date = ('9999-01-01')
-ORDER BY r.emp_no, r.to_date DESC;
+ORDER BY r.emp_no ASC;
 
 select * from unique_titles;
 
